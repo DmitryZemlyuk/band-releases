@@ -1,10 +1,12 @@
 {
-  "version": "0.1.3",
-  "url": "https://raw.githubusercontent.com/DmitryZemlyuk/band-releases/main/apk/band-0.1.3.apk",
+  "version": "0.1.4",
+  "code": 5,
+  "url": "https://raw.githubusercontent.com/DmitryZemlyuk/band-releases/main/apk/band-0.1.4.apk",
   "size": 131802,
+  "sha256": "0f124e1fe43361add12f043e7356a66e4b1b96f273ffb775131253d87064a19f",
   "notes": {
-    "en": "- Weight card shows how far you are from a healthy weight (BMI 18.5–24.9)\n- Bottom bar labels are centred under the icons",
-    "ru": "- Карточка веса показывает, насколько ты далёк от нормы (ИМТ 18,5–24,9)\n- Подписи в нижней панели по центру кнопок",
-    "uk": "- Картка ваги показує, наскільки ти далекий від норми (ІМТ 18,5–24,9)\n- Підписи в нижній панелі по центру кнопок"
+    "uk": "Кнопка «Перевірити» оновлення в профілі і плашка про нову версію на головному екрані. Картка ваги показує, наскільки ти далекий від норми. Оновлення перевіряються за контрольною сумою.",
+    "ru": "Кнопка «Проверить» обновления в профиле и плашка о новой версии на главном экране. Карточка веса показывает, насколько ты далёк от нормы. Обновления проверяются по контрольной сумме.",
+    "en": "A Check button for updates in Profile and a new-version banner on the Today screen. The weight card shows how far you are from a healthy weight. Updates are verified by checksum."
   }
 }
