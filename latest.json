@@ -1,12 +1,12 @@
 {
-  "version": "0.4.3",
-  "code": 30,
-  "url": "https://raw.githubusercontent.com/DmitryZemlyuk/band-releases/main/apk/band-0.4.3.apk",
+  "version": "0.4.4",
+  "code": 31,
+  "url": "https://raw.githubusercontent.com/DmitryZemlyuk/band-releases/main/apk/band-0.4.4.apk",
   "size": 262874,
-  "sha256": "b090a8f64b5262c770bf6cd8654d30b8319d034dbe18e4628fd42965fb572962",
+  "sha256": "7ee1c611ad60ce255c6623bd746799cef0148b6427f8d7016861285862d9e091",
   "notes": {
-    "uk": "Версія прошивки читається надійніше: з браслета (дві характеристики) або з даних акаунта, якщо браслет її не віддав.",
-    "ru": "Версия прошивки читается надёжнее: с браслета (две характеристики) или из данных аккаунта, если браслет её не отдал.",
-    "en": "Firmware version is read more reliably: from the band (two characteristics) or from the account data if the band doesn't provide it."
+    "uk": "Виправлено дату останньої зарядки браслета і запит перевірки оновлення прошивки.",
+    "ru": "Исправлены дата последней зарядки браслета и запрос проверки обновления прошивки.",
+    "en": "Fixed the band's last charge date and the firmware update check request."
   }
 }
