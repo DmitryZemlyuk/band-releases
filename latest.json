@@ -1,12 +1,12 @@
 {
-  "version": "0.2.10",
-  "code": 19,
-  "url": "https://raw.githubusercontent.com/DmitryZemlyuk/band-releases/main/apk/band-0.2.10.apk",
-  "size": 205530,
-  "sha256": "4e7e0366e39316fbf2e44f48ef660895955627f9afe6ff516b291dfe6ebd9f0a",
+  "version": "0.2.11",
+  "code": 20,
+  "url": "https://raw.githubusercontent.com/DmitryZemlyuk/band-releases/main/apk/band-0.2.11.apk",
+  "size": 221914,
+  "sha256": "904cd75c5351aab25abc64204dbbeb4177d159ddfb09a7be0016618d11aab2b2",
   "notes": {
-    "uk": "Скляні кнопки днів тижня в будильнику. Пошук браслета з телефона і пошук телефона з браслета.",
-    "ru": "Стеклянные кнопки дней недели в будильнике. Поиск браслета с телефона и поиск телефона с браслета.",
-    "en": "Glass weekday buttons in the alarm editor. Find the band from the phone and the phone from the band."
+    "uk": "Меню браслета: приховування пунктів, розділ «Ще» і зміна порядку перетягуванням, а також картки-ярлики – як у Zepp Life. Акуратніші скляні кнопки днів у будильнику.",
+    "ru": "Меню браслета: скрытие пунктов, раздел «Ещё» и смена порядка перетаскиванием, а также карточки-ярлыки – как в Zepp Life. Аккуратнее стеклянные кнопки дней в будильнике.",
+    "en": "Band menu: hide items, the More section and drag to reorder, plus shortcut cards – like in Zepp Life. Cleaner glass weekday buttons in the alarm editor."
   }
 }
