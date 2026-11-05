@@ -1,12 +1,12 @@
 {
-  "version": "0.2.3",
-  "code": 12,
-  "url": "https://raw.githubusercontent.com/DmitryZemlyuk/band-releases/main/apk/band-0.2.3.apk",
-  "size": 193242,
-  "sha256": "1f3cc41204b9cc98d3c2885766c44f7c01e47ec662c018e647fc983d72ffd557",
+  "version": "0.2.4",
+  "code": 13,
+  "url": "https://raw.githubusercontent.com/DmitryZemlyuk/band-releases/main/apk/band-0.2.4.apk",
+  "size": 201434,
+  "sha256": "9099d94f6f9486e7bf1c14d830c92bc24f46e5ac495d83e4d2c080d0776c1de0",
   "notes": {
-    "uk": "Будильники на браслеті: список, час, дні повтору, увімкнення й вимкнення, розумний будильник. Розділ «Пристрої → Будильники».",
-    "ru": "Будильники на браслете: список, время, дни повтора, включение и выключение, умный будильник. Раздел «Устройства → Будильники».",
-    "en": "Band alarms: list, time, repeat days, on and off, smart wake-up. Section Devices → Alarms."
+    "uk": "Кроки, сон і пульс тепер завантажуються прямо з браслета: при підключенні, щогодини та кнопкою синхронізації. Час будильника вибирається барабаном. Кнопки «Тиждень / Місяць / Рік» вищі.",
+    "ru": "Шаги, сон и пульс теперь загружаются прямо с браслета: при подключении, раз в час и кнопкой синхронизации. Время будильника выбирается барабаном. Кнопки «Неделя / Месяц / Год» выше.",
+    "en": "Steps, sleep and heart rate now come straight from the band: on connect, hourly and with the sync button. Alarm time is picked with wheels. Taller Week / Month / Year buttons."
   }
 }
