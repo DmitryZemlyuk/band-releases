@@ -1,12 +1,12 @@
 {
-  "version": "0.3.2",
-  "code": 24,
-  "url": "https://raw.githubusercontent.com/DmitryZemlyuk/band-releases/main/apk/band-0.3.2.apk",
+  "version": "0.3.3",
+  "code": 25,
+  "url": "https://raw.githubusercontent.com/DmitryZemlyuk/band-releases/main/apk/band-0.3.3.apk",
   "size": 238298,
-  "sha256": "e16c30fc0a3d9146bfbe08575c0b03c6277e5d073088e0e926c1acc60d355e32",
+  "sha256": "90c592037a17f9944ac006483f0e829d8def53e63696e5ea6aea55711dee4587",
   "notes": {
-    "uk": "Налаштування «Пульс протягом дня» в «Пристрої → Налаштування браслета»: вимкнено, розумний режим або замір кожні 1–30 хвилин. У журналі видно, скільки хвилин із пульсом прийшло з браслета.",
-    "ru": "Настройка «Пульс в течение дня» в «Устройства → Настройки браслета»: выключено, умный режим или замер каждые 1–30 минут. В журнале видно, сколько минут с пульсом пришло с браслета.",
-    "en": "All-day heart rate setting in Devices → Band settings: off, smart or every 1–30 minutes. The log shows how many minutes with heart rate came from the band."
+    "uk": "Ручні заміри пульсу з браслета теж завантажуються і з'являються на графіку пульсу.",
+    "ru": "Ручные замеры пульса с браслета тоже загружаются и появляются на графике пульса.",
+    "en": "Manual heart rate measurements from the band are now downloaded and shown on the heart rate chart."
   }
 }
