@@ -1,12 +1,12 @@
 {
-  "version": "0.2.5",
-  "code": 14,
-  "url": "https://raw.githubusercontent.com/DmitryZemlyuk/band-releases/main/apk/band-0.2.5.apk",
-  "size": 201434,
-  "sha256": "e870824397b6f2c1898b4fba2fe88151b0e3e85667a001f5bea06836c498ac2c",
+  "version": "0.2.6",
+  "code": 15,
+  "url": "https://raw.githubusercontent.com/DmitryZemlyuk/band-releases/main/apk/band-0.2.6.apk",
+  "size": 197338,
+  "sha256": "c1960e1399c88689e04edd417fc20d402bb684972761097e0d930f1d83193637",
   "notes": {
-    "uk": "Дані з браслета оновлюються без таймерів: через 5 секунд після розблокування телефона (не частіше ніж раз на 30 хвилин), при підключенні та кнопкою синхронізації.",
-    "ru": "Данные с браслета обновляются без таймеров: через 5 секунд после разблокировки телефона (не чаще раза в 30 минут), при подключении и кнопкой синхронизации.",
-    "en": "Band data refreshes without timers: 5 seconds after the phone is unlocked (at most every 30 minutes), on connect and with the sync button."
+    "uk": "Прибрано підтримку Amazfit Bip Max: застосунок тепер лише для Mi Band 7 і ваг Mi Scale 2. Дані з браслета оновлюються після розблокування телефона, без таймерів.",
+    "ru": "Убрана поддержка Amazfit Bip Max: приложение теперь только для Mi Band 7 и весов Mi Scale 2. Данные с браслета обновляются после разблокировки телефона, без таймеров.",
+    "en": "Amazfit Bip Max support removed: the app is now for Mi Band 7 and Mi Scale 2 only. Band data refreshes after the phone is unlocked, without timers."
   }
 }
