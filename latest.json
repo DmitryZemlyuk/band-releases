@@ -1,12 +1,12 @@
 {
-  "version": "0.1.5",
-  "code": 6,
-  "url": "https://raw.githubusercontent.com/DmitryZemlyuk/band-releases/main/apk/band-0.1.5.apk",
+  "version": "0.1.6",
+  "code": 7,
+  "url": "https://raw.githubusercontent.com/DmitryZemlyuk/band-releases/main/apk/band-0.1.6.apk",
   "size": 139994,
-  "sha256": "2eae10b169b4e72f63c87bb0e9a249364d522cffb575585f9a5ee2f3f4fc603e",
+  "sha256": "0234d8709d03370c5ef95be58a6dd3df13c010f374b07bf1929601ace7a3fe14",
   "notes": {
-    "uk": "Норми для ІМТ, жиру, води, м’язів, кісток, вісцерального жиру, білка й обміну – як у Zepp Life. Сесія Zepp сама подовжується, без повторного входу. Після перенесення кнопка «Відкрити застосунок» тепер помітна.",
-    "ru": "Нормы для ИМТ, жира, воды, мышц, костей, висцерального жира, белка и обмена – как в Zepp Life. Сессия Zepp сама продлевается, без повторного входа. После переноса кнопка «Открыть приложение» теперь заметна.",
-    "en": "Norms for BMI, body fat, water, muscle, bone, visceral fat, protein and metabolism, as in Zepp Life. The Zepp session renews itself, no need to sign in again. The Open the app button now stands out after the transfer."
+    "uk": "Виправлено порожні картки в профілі й пристроях: знову видно всі пункти, зокрема «Оновлення» з кнопкою «Перевірити».",
+    "ru": "Исправлены пустые карточки в профиле и устройствах: снова видны все пункты, в том числе «Обновления» с кнопкой «Проверить».",
+    "en": "Fixed empty cards in Profile and Devices: all items are visible again, including Updates with the Check button."
   }
 }
