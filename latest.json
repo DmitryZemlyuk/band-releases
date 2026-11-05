@@ -1,12 +1,12 @@
 {
-  "version": "0.1.7",
-  "code": 8,
-  "url": "https://raw.githubusercontent.com/DmitryZemlyuk/band-releases/main/apk/band-0.1.7.apk",
-  "size": 139994,
-  "sha256": "cff8389186f54b02b19eeb6e4d53f8caf4c0572689171d58c784646fdda3b7e7",
+  "version": "0.2.0",
+  "code": 9,
+  "url": "https://raw.githubusercontent.com/DmitryZemlyuk/band-releases/main/apk/band-0.2.0.apk",
+  "size": 164570,
+  "sha256": "c722f51b91e6bb8a16bb9a2b1250bb80ddbde770f48858dd6ac8e073c0e92509",
   "notes": {
-    "uk": "Стать, рік народження й зріст підтягуються з акаунта Zepp, тож норми жиру, м’язів, води, кісток і обміну видно без ручного введення.",
-    "ru": "Пол, год рождения и рост подтягиваются из аккаунта Zepp, поэтому нормы жира, мышц, воды, костей и обмена видны без ручного ввода.",
-    "en": "Sex, birth year and height are taken from the Zepp account, so the norms for fat, muscle, water, bone and metabolism show without manual input."
+    "uk": "Перше підключення браслета через Bluetooth: заряд на головному екрані, синхронізація часу, сповіщення «браслет підключено / відключено» з рівнем заряду.",
+    "ru": "Первое подключение браслета по Bluetooth: заряд на главном экране, синхронизация времени, уведомление «браслет подключён / отключён» с уровнем заряда.",
+    "en": "First Bluetooth connection to the band: battery on the Today screen, time sync, a band connected / disconnected notification with the battery level."
   }
 }
