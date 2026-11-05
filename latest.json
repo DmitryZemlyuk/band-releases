@@ -1,12 +1,12 @@
 {
-  "version": "0.2.11",
-  "code": 20,
-  "url": "https://raw.githubusercontent.com/DmitryZemlyuk/band-releases/main/apk/band-0.2.11.apk",
+  "version": "0.2.12",
+  "code": 21,
+  "url": "https://raw.githubusercontent.com/DmitryZemlyuk/band-releases/main/apk/band-0.2.12.apk",
   "size": 221914,
-  "sha256": "904cd75c5351aab25abc64204dbbeb4177d159ddfb09a7be0016618d11aab2b2",
+  "sha256": "8b2c8b904d7cc948a31a573c60e4adf10c562919c87953e35f3569297a40dcb9",
   "notes": {
-    "uk": "Меню браслета: приховування пунктів, розділ «Ще» і зміна порядку перетягуванням, а також картки-ярлики – як у Zepp Life. Акуратніші скляні кнопки днів у будильнику.",
-    "ru": "Меню браслета: скрытие пунктов, раздел «Ещё» и смена порядка перетаскиванием, а также карточки-ярлыки – как в Zepp Life. Аккуратнее стеклянные кнопки дней в будильнике.",
-    "en": "Band menu: hide items, the More section and drag to reorder, plus shortcut cards – like in Zepp Life. Cleaner glass weekday buttons in the alarm editor."
+    "uk": "Діагностика сортування меню браслета: у журнал пишеться порядок пунктів, який надсилається і який повертає браслет.",
+    "ru": "Диагностика сортировки меню браслета: в журнал пишется порядок пунктов, который отправляется и который возвращает браслет.",
+    "en": "Band menu sorting diagnostics: the log shows the item order sent to the band and the order it returns."
   }
 }
