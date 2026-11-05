@@ -1,12 +1,12 @@
 {
-  "version": "0.3.1",
-  "code": 23,
-  "url": "https://raw.githubusercontent.com/DmitryZemlyuk/band-releases/main/apk/band-0.3.1.apk",
-  "size": 234202,
-  "sha256": "40bdbccbf00b61cc1248330b93c1a80650cd19daccc0b900458544575037f582",
+  "version": "0.3.2",
+  "code": 24,
+  "url": "https://raw.githubusercontent.com/DmitryZemlyuk/band-releases/main/apk/band-0.3.2.apk",
+  "size": 238298,
+  "sha256": "e16c30fc0a3d9146bfbe08575c0b03c6277e5d073088e0e926c1acc60d355e32",
   "notes": {
-    "uk": "Попап під час зважування: вага наживо, потім результат зі складом тіла; якщо застосунок закритий – сповіщення. Зважування надсилаються в акаунт Zepp (вимикається в «Профіль → Синхронізація»). Узгоджений дизайн: скляна картка графіка кроків, власні іконки в меню браслета.",
-    "ru": "Попап при взвешивании: вес вживую, затем результат с составом тела; если приложение закрыто – уведомление. Взвешивания отправляются в аккаунт Zepp (отключается в «Профиль → Синхронизация»). Согласованный дизайн: стеклянная карточка графика шагов, свои иконки в меню браслета.",
-    "en": "Weigh-in popup: live weight, then the result with body composition; a notification when the app is closed. Weigh-ins are sent to the Zepp account (can be turned off in Profile → Sync). Consistent design: glass steps chart card, own icons in the band menu."
+    "uk": "Налаштування «Пульс протягом дня» в «Пристрої → Налаштування браслета»: вимкнено, розумний режим або замір кожні 1–30 хвилин. У журналі видно, скільки хвилин із пульсом прийшло з браслета.",
+    "ru": "Настройка «Пульс в течение дня» в «Устройства → Настройки браслета»: выключено, умный режим или замер каждые 1–30 минут. В журнале видно, сколько минут с пульсом пришло с браслета.",
+    "en": "All-day heart rate setting in Devices → Band settings: off, smart or every 1–30 minutes. The log shows how many minutes with heart rate came from the band."
   }
 }
