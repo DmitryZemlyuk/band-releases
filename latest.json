@@ -1,12 +1,12 @@
 {
-  "version": "0.1.4",
-  "code": 5,
-  "url": "https://raw.githubusercontent.com/DmitryZemlyuk/band-releases/main/apk/band-0.1.4.apk",
-  "size": 131802,
-  "sha256": "0f124e1fe43361add12f043e7356a66e4b1b96f273ffb775131253d87064a19f",
+  "version": "0.1.5",
+  "code": 6,
+  "url": "https://raw.githubusercontent.com/DmitryZemlyuk/band-releases/main/apk/band-0.1.5.apk",
+  "size": 139994,
+  "sha256": "2eae10b169b4e72f63c87bb0e9a249364d522cffb575585f9a5ee2f3f4fc603e",
   "notes": {
-    "uk": "Кнопка «Перевірити» оновлення в профілі і плашка про нову версію на головному екрані. Картка ваги показує, наскільки ти далекий від норми. Оновлення перевіряються за контрольною сумою.",
-    "ru": "Кнопка «Проверить» обновления в профиле и плашка о новой версии на главном экране. Карточка веса показывает, насколько ты далёк от нормы. Обновления проверяются по контрольной сумме.",
-    "en": "A Check button for updates in Profile and a new-version banner on the Today screen. The weight card shows how far you are from a healthy weight. Updates are verified by checksum."
+    "uk": "Норми для ІМТ, жиру, води, м’язів, кісток, вісцерального жиру, білка й обміну – як у Zepp Life. Сесія Zepp сама подовжується, без повторного входу. Після перенесення кнопка «Відкрити застосунок» тепер помітна.",
+    "ru": "Нормы для ИМТ, жира, воды, мышц, костей, висцерального жира, белка и обмена – как в Zepp Life. Сессия Zepp сама продлевается, без повторного входа. После переноса кнопка «Открыть приложение» теперь заметна.",
+    "en": "Norms for BMI, body fat, water, muscle, bone, visceral fat, protein and metabolism, as in Zepp Life. The Zepp session renews itself, no need to sign in again. The Open the app button now stands out after the transfer."
   }
 }
