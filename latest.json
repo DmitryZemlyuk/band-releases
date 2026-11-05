@@ -1,12 +1,12 @@
 {
-  "version": "0.2.12",
-  "code": 21,
-  "url": "https://raw.githubusercontent.com/DmitryZemlyuk/band-releases/main/apk/band-0.2.12.apk",
-  "size": 221914,
-  "sha256": "8b2c8b904d7cc948a31a573c60e4adf10c562919c87953e35f3569297a40dcb9",
+  "version": "0.3.0",
+  "code": 22,
+  "url": "https://raw.githubusercontent.com/DmitryZemlyuk/band-releases/main/apk/band-0.3.0.apk",
+  "size": 230106,
+  "sha256": "2f5c2f92cd264ada1b187df852ed828628193b0361ee3dc31affd5cea5797580",
   "notes": {
-    "uk": "Діагностика сортування меню браслета: у журнал пишеться порядок пунктів, який надсилається і який повертає браслет.",
-    "ru": "Диагностика сортировки меню браслета: в журнал пишется порядок пунктов, который отправляется и который возвращает браслет.",
-    "en": "Band menu sorting diagnostics: the log shows the item order sent to the band and the order it returns."
+    "uk": "Ваги Mi Scale 2 без Zepp Life: телефон чує зважування через Bluetooth в економному режимі, вага й склад тіла зберігаються одразу. Увімкни в «Пристрої → Mi Body Composition Scale 2». На екрані «Вага» видно вагу наживо, поки стоїш на вагах.",
+    "ru": "Весы Mi Scale 2 без Zepp Life: телефон слышит взвешивания по Bluetooth в экономном режиме, вес и состав тела сохраняются сразу. Включи в «Устройства → Mi Body Composition Scale 2». На экране «Вес» видно вес вживую, пока стоишь на весах.",
+    "en": "Mi Scale 2 without Zepp Life: the phone hears weigh-ins over Bluetooth in low-power mode and saves weight and body composition right away. Turn it on in Devices → Mi Body Composition Scale 2. The Weight screen shows the live weight while you stand on the scale."
   }
 }
