@@ -1,10 +1,10 @@
 {
-  "version": "0.1.1",
-  "url": "https://raw.githubusercontent.com/DmitryZemlyuk/band-releases/main/apk/band-0.1.1.apk",
+  "version": "0.1.2",
+  "url": "https://raw.githubusercontent.com/DmitryZemlyuk/band-releases/main/apk/band-0.1.2.apk",
   "size": 127706,
   "notes": {
-    "en": "- First version: sign in with Xiaomi or Zepp account\n- Whole history from the Zepp cloud: steps, sleep, heart rate, weight\n- Updates from this repository",
-    "ru": "- Первая версия: вход через аккаунт Xiaomi или Zepp\n- Вся история из облака Zepp: шаги, сон, пульс, вес\n- Обновления из репозитория на GitHub",
-    "uk": "- Перша версія: вхід через акаунт Xiaomi або Zepp\n- Уся історія з хмари Zepp: кроки, сон, пульс, вага\n- Оновлення з репозиторію на GitHub"
+    "en": "- Bottom bar labels are centred under the icons\n- Centred period header on the Steps screen",
+    "ru": "- Подписи в нижней панели теперь по центру кнопок\n- Заголовок периода на экране шагов по центру",
+    "uk": "- Підписи в нижній панелі тепер по центру кнопок\n- Заголовок періоду на екрані кроків по центру"
   }
 }
