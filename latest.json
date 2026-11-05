@@ -1,12 +1,12 @@
 {
-  "version": "0.2.0",
-  "code": 9,
-  "url": "https://raw.githubusercontent.com/DmitryZemlyuk/band-releases/main/apk/band-0.2.0.apk",
+  "version": "0.2.1",
+  "code": 10,
+  "url": "https://raw.githubusercontent.com/DmitryZemlyuk/band-releases/main/apk/band-0.2.1.apk",
   "size": 164570,
-  "sha256": "c722f51b91e6bb8a16bb9a2b1250bb80ddbde770f48858dd6ac8e073c0e92509",
+  "sha256": "f753cc2ce91bd0d653417b0bda9a88ab6c913d92213bf1ae7cf2fe59639fe677",
   "notes": {
-    "uk": "Перше підключення браслета через Bluetooth: заряд на головному екрані, синхронізація часу, сповіщення «браслет підключено / відключено» з рівнем заряду.",
-    "ru": "Первое подключение браслета по Bluetooth: заряд на главном экране, синхронизация времени, уведомление «браслет подключён / отключён» с уровнем заряда.",
-    "en": "First Bluetooth connection to the band: battery on the Today screen, time sync, a band connected / disconnected notification with the battery level."
+    "uk": "Виправлено підключення браслета, що зависало на «Підключення…». Коли сесія Zepp закінчується, застосунок сам тихо входить знову через Xiaomi.",
+    "ru": "Исправлено подключение браслета, зависавшее на «Подключение…». Когда сессия Zepp заканчивается, приложение само тихо входит заново через Xiaomi.",
+    "en": "Fixed the band connection hanging on Connecting. When the Zepp session expires, the app signs in again through Xiaomi silently."
   }
 }
