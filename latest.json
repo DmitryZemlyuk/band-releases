@@ -1,12 +1,12 @@
 {
-  "version": "0.2.7",
-  "code": 16,
-  "url": "https://raw.githubusercontent.com/DmitryZemlyuk/band-releases/main/apk/band-0.2.7.apk",
+  "version": "0.2.8",
+  "code": 17,
+  "url": "https://raw.githubusercontent.com/DmitryZemlyuk/band-releases/main/apk/band-0.2.8.apk",
   "size": 201434,
-  "sha256": "e34fb2985fe6fa8018e114e4f68dfef10511e8db1cd1d806731ac14ce34e21ce",
+  "sha256": "83a6b96c53e38fc571ccef902052400b53a8d3376459a507f772db1968ceecac",
   "notes": {
-    "uk": "Перемикач «Видимість браслета» в «Пристрої → Налаштування браслета», як у Zepp Life.",
-    "ru": "Переключатель «Видимость браслета» в «Устройства → Настройки браслета», как в Zepp Life.",
-    "en": "Band visibility switch in Devices → Band settings, like in Zepp Life."
+    "uk": "Видимість браслета читається так само, як у Zepp Life. Поки значення не прочитано, перемикач неактивний.",
+    "ru": "Видимость браслета читается так же, как в Zepp Life. Пока значение не прочитано, переключатель неактивен.",
+    "en": "Band visibility is read the same way Zepp Life does. The switch stays inactive until the value is read."
   }
 }
