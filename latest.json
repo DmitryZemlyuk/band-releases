@@ -1,12 +1,12 @@
 {
-  "version": "0.1.6",
-  "code": 7,
-  "url": "https://raw.githubusercontent.com/DmitryZemlyuk/band-releases/main/apk/band-0.1.6.apk",
+  "version": "0.1.7",
+  "code": 8,
+  "url": "https://raw.githubusercontent.com/DmitryZemlyuk/band-releases/main/apk/band-0.1.7.apk",
   "size": 139994,
-  "sha256": "0234d8709d03370c5ef95be58a6dd3df13c010f374b07bf1929601ace7a3fe14",
+  "sha256": "cff8389186f54b02b19eeb6e4d53f8caf4c0572689171d58c784646fdda3b7e7",
   "notes": {
-    "uk": "Виправлено порожні картки в профілі й пристроях: знову видно всі пункти, зокрема «Оновлення» з кнопкою «Перевірити».",
-    "ru": "Исправлены пустые карточки в профиле и устройствах: снова видны все пункты, в том числе «Обновления» с кнопкой «Проверить».",
-    "en": "Fixed empty cards in Profile and Devices: all items are visible again, including Updates with the Check button."
+    "uk": "Стать, рік народження й зріст підтягуються з акаунта Zepp, тож норми жиру, м’язів, води, кісток і обміну видно без ручного введення.",
+    "ru": "Пол, год рождения и рост подтягиваются из аккаунта Zepp, поэтому нормы жира, мышц, воды, костей и обмена видны без ручного ввода.",
+    "en": "Sex, birth year and height are taken from the Zepp account, so the norms for fat, muscle, water, bone and metabolism show without manual input."
   }
 }
