@@ -1,12 +1,12 @@
 {
-  "version": "0.2.1",
-  "code": 10,
-  "url": "https://raw.githubusercontent.com/DmitryZemlyuk/band-releases/main/apk/band-0.2.1.apk",
-  "size": 164570,
-  "sha256": "f753cc2ce91bd0d653417b0bda9a88ab6c913d92213bf1ae7cf2fe59639fe677",
+  "version": "0.2.2",
+  "code": 11,
+  "url": "https://raw.githubusercontent.com/DmitryZemlyuk/band-releases/main/apk/band-0.2.2.apk",
+  "size": 180954,
+  "sha256": "d8cde1d17a4606f5a18202bbdec37af11bd5be0b2376cda4369b7f87148db2c5",
   "notes": {
-    "uk": "Виправлено підключення браслета, що зависало на «Підключення…». Коли сесія Zepp закінчується, застосунок сам тихо входить знову через Xiaomi.",
-    "ru": "Исправлено подключение браслета, зависавшее на «Подключение…». Когда сессия Zepp заканчивается, приложение само тихо входит заново через Xiaomi.",
-    "en": "Fixed the band connection hanging on Connecting. When the Zepp session expires, the app signs in again through Xiaomi silently."
+    "uk": "Сповіщення на браслеті: виклики (скинути чи вимкнути звук з браслета), пропущені виклики, SMS і вибрані застосунки. Новий розділ «Пристрої → Сповіщення». Сповіщення про стан браслета більше не видно на екрані блокування – лише в шторці.",
+    "ru": "Уведомления на браслете: вызовы (сбросить или заглушить с браслета), пропущенные вызовы, SMS и выбранные приложения. Новый раздел «Устройства → Уведомления». Уведомление о статусе браслета больше не видно на экране блокировки – только в шторке.",
+    "en": "Notifications on the band: calls (reject or mute from the band), missed calls, SMS and chosen apps. New section Devices → Notifications. The band status notification no longer shows on the lock screen – only in the shade."
   }
 }
