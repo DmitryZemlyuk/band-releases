@@ -1,12 +1,12 @@
 {
-  "version": "0.2.9",
-  "code": 18,
-  "url": "https://raw.githubusercontent.com/DmitryZemlyuk/band-releases/main/apk/band-0.2.9.apk",
+  "version": "0.2.10",
+  "code": 19,
+  "url": "https://raw.githubusercontent.com/DmitryZemlyuk/band-releases/main/apk/band-0.2.10.apk",
   "size": 205530,
-  "sha256": "7998071f0ff9f6b417d30cf9bbd54caf12680313e342aa872522248bf7447620",
+  "sha256": "4e7e0366e39316fbf2e44f48ef660895955627f9afe6ff516b291dfe6ebd9f0a",
   "notes": {
-    "uk": "Пошук браслета з телефона (браслет вібрує до хвилини) і пошук телефона з браслета (телефон дзвонить як будильник, поки не натиснеш «Знайшов»).",
-    "ru": "Поиск браслета с телефона (браслет вибрирует до минуты) и поиск телефона с браслета (телефон звонит как будильник, пока не нажмёшь «Нашёл»).",
-    "en": "Find the band from the phone (it vibrates for up to a minute) and find the phone from the band (the phone rings like an alarm until you tap Found it)."
+    "uk": "Скляні кнопки днів тижня в будильнику. Пошук браслета з телефона і пошук телефона з браслета.",
+    "ru": "Стеклянные кнопки дней недели в будильнике. Поиск браслета с телефона и поиск телефона с браслета.",
+    "en": "Glass weekday buttons in the alarm editor. Find the band from the phone and the phone from the band."
   }
 }
