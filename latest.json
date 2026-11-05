@@ -1,12 +1,12 @@
 {
-  "version": "0.2.8",
-  "code": 17,
-  "url": "https://raw.githubusercontent.com/DmitryZemlyuk/band-releases/main/apk/band-0.2.8.apk",
-  "size": 201434,
-  "sha256": "83a6b96c53e38fc571ccef902052400b53a8d3376459a507f772db1968ceecac",
+  "version": "0.2.9",
+  "code": 18,
+  "url": "https://raw.githubusercontent.com/DmitryZemlyuk/band-releases/main/apk/band-0.2.9.apk",
+  "size": 205530,
+  "sha256": "7998071f0ff9f6b417d30cf9bbd54caf12680313e342aa872522248bf7447620",
   "notes": {
-    "uk": "Видимість браслета читається так само, як у Zepp Life. Поки значення не прочитано, перемикач неактивний.",
-    "ru": "Видимость браслета читается так же, как в Zepp Life. Пока значение не прочитано, переключатель неактивен.",
-    "en": "Band visibility is read the same way Zepp Life does. The switch stays inactive until the value is read."
+    "uk": "Пошук браслета з телефона (браслет вібрує до хвилини) і пошук телефона з браслета (телефон дзвонить як будильник, поки не натиснеш «Знайшов»).",
+    "ru": "Поиск браслета с телефона (браслет вибрирует до минуты) и поиск телефона с браслета (телефон звонит как будильник, пока не нажмёшь «Нашёл»).",
+    "en": "Find the band from the phone (it vibrates for up to a minute) and find the phone from the band (the phone rings like an alarm until you tap Found it)."
   }
 }
