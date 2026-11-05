@@ -1,12 +1,12 @@
 {
-  "version": "0.3.0",
-  "code": 22,
-  "url": "https://raw.githubusercontent.com/DmitryZemlyuk/band-releases/main/apk/band-0.3.0.apk",
-  "size": 230106,
-  "sha256": "2f5c2f92cd264ada1b187df852ed828628193b0361ee3dc31affd5cea5797580",
+  "version": "0.3.1",
+  "code": 23,
+  "url": "https://raw.githubusercontent.com/DmitryZemlyuk/band-releases/main/apk/band-0.3.1.apk",
+  "size": 234202,
+  "sha256": "40bdbccbf00b61cc1248330b93c1a80650cd19daccc0b900458544575037f582",
   "notes": {
-    "uk": "Ваги Mi Scale 2 без Zepp Life: телефон чує зважування через Bluetooth в економному режимі, вага й склад тіла зберігаються одразу. Увімкни в «Пристрої → Mi Body Composition Scale 2». На екрані «Вага» видно вагу наживо, поки стоїш на вагах.",
-    "ru": "Весы Mi Scale 2 без Zepp Life: телефон слышит взвешивания по Bluetooth в экономном режиме, вес и состав тела сохраняются сразу. Включи в «Устройства → Mi Body Composition Scale 2». На экране «Вес» видно вес вживую, пока стоишь на весах.",
-    "en": "Mi Scale 2 without Zepp Life: the phone hears weigh-ins over Bluetooth in low-power mode and saves weight and body composition right away. Turn it on in Devices → Mi Body Composition Scale 2. The Weight screen shows the live weight while you stand on the scale."
+    "uk": "Попап під час зважування: вага наживо, потім результат зі складом тіла; якщо застосунок закритий – сповіщення. Зважування надсилаються в акаунт Zepp (вимикається в «Профіль → Синхронізація»). Узгоджений дизайн: скляна картка графіка кроків, власні іконки в меню браслета.",
+    "ru": "Попап при взвешивании: вес вживую, затем результат с составом тела; если приложение закрыто – уведомление. Взвешивания отправляются в аккаунт Zepp (отключается в «Профиль → Синхронизация»). Согласованный дизайн: стеклянная карточка графика шагов, свои иконки в меню браслета.",
+    "en": "Weigh-in popup: live weight, then the result with body composition; a notification when the app is closed. Weigh-ins are sent to the Zepp account (can be turned off in Profile → Sync). Consistent design: glass steps chart card, own icons in the band menu."
   }
 }
