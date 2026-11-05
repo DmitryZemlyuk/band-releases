@@ -1,12 +1,12 @@
 {
-  "version": "0.3.3",
-  "code": 25,
-  "url": "https://raw.githubusercontent.com/DmitryZemlyuk/band-releases/main/apk/band-0.3.3.apk",
-  "size": 238298,
-  "sha256": "90c592037a17f9944ac006483f0e829d8def53e63696e5ea6aea55711dee4587",
+  "version": "0.3.4",
+  "code": 26,
+  "url": "https://raw.githubusercontent.com/DmitryZemlyuk/band-releases/main/apk/band-0.3.4.apk",
+  "size": 242394,
+  "sha256": "0c13a2ce4c539443809eb20779d409a2e2d1fafa7890b802ff1a8280e44dd473",
   "notes": {
-    "uk": "Ручні заміри пульсу з браслета теж завантажуються і з'являються на графіку пульсу.",
-    "ru": "Ручные замеры пульса с браслета тоже загружаются и появляются на графике пульса.",
-    "en": "Manual heart rate measurements from the band are now downloaded and shown on the heart rate chart."
+    "uk": "Пульс на «Сьогодні» показується навіть за кількох ручних замірів. Журнал показує останню годину, сьогодні або весь – копіюється і надсилається вибраний проміжок.",
+    "ru": "Пульс на «Сегодня» показывается даже при нескольких ручных замерах. Журнал показывает последний час, сегодня или весь – копируется и отправляется выбранный промежуток.",
+    "en": "Heart rate on Today shows even with only a few manual measurements. The log shows the last hour, today or everything – copy and share use the chosen range."
   }
 }
