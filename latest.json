@@ -1,12 +1,12 @@
 {
-  "version": "0.4.0",
-  "code": 27,
-  "url": "https://raw.githubusercontent.com/DmitryZemlyuk/band-releases/main/apk/band-0.4.0.apk",
-  "size": 254682,
-  "sha256": "a5473a9e38f4ff4ba7288e1dd023e6e4cceb3c6ed4abcad8f911906adbff7711",
+  "version": "0.4.1",
+  "code": 28,
+  "url": "https://raw.githubusercontent.com/DmitryZemlyuk/band-releases/main/apk/band-0.4.1.apk",
+  "size": 262874,
+  "sha256": "4de75514f8d5456e57476adfe13fe6fc3efe452ea362bba5a3e4f3c2d557cb7a",
   "notes": {
-    "uk": "Циферблати: список циферблатів на браслеті, вибір поточного і встановлення власного циферблата (.zip або .zab для Mi Band 7) з перевіркою файлу перед надсиланням. «Пристрої → Циферблати».",
-    "ru": "Циферблаты: список циферблатов на браслете, выбор текущего и установка своего циферблата (.zip или .zab для Mi Band 7) с проверкой файла перед отправкой. «Устройства → Циферблаты».",
-    "en": "Watchfaces: list of watchfaces on the band, choose the current one and install your own (.zip or .zab for Mi Band 7), with the file checked before sending. Devices → Watchfaces."
+    "uk": "Видалення власних циферблатів з браслета. Версія прошивки й перевірка оновлення. Скільки днів тому браслет заряджався. Фази сну: ночі з фазами Zepp Life мають пріоритет, а розрахунок нових ночей налаштовується за ними автоматично.",
+    "ru": "Удаление своих циферблатов с браслета. Версия прошивки и проверка обновления. Сколько дней назад браслет заряжался. Фазы сна: ночи с фазами Zepp Life в приоритете, а расчёт новых ночей настраивается по ним автоматически.",
+    "en": "Delete your own watchfaces from the band. Firmware version and update check. Days since the band was last charged. Sleep stages: nights with Zepp Life stages take priority, and the estimate for new nights is tuned against them automatically."
   }
 }
