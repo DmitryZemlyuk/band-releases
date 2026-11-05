@@ -1,12 +1,12 @@
 {
-  "version": "0.3.4",
-  "code": 26,
-  "url": "https://raw.githubusercontent.com/DmitryZemlyuk/band-releases/main/apk/band-0.3.4.apk",
-  "size": 242394,
-  "sha256": "0c13a2ce4c539443809eb20779d409a2e2d1fafa7890b802ff1a8280e44dd473",
+  "version": "0.4.0",
+  "code": 27,
+  "url": "https://raw.githubusercontent.com/DmitryZemlyuk/band-releases/main/apk/band-0.4.0.apk",
+  "size": 254682,
+  "sha256": "a5473a9e38f4ff4ba7288e1dd023e6e4cceb3c6ed4abcad8f911906adbff7711",
   "notes": {
-    "uk": "Пульс на «Сьогодні» показується навіть за кількох ручних замірів. Журнал показує останню годину, сьогодні або весь – копіюється і надсилається вибраний проміжок.",
-    "ru": "Пульс на «Сегодня» показывается даже при нескольких ручных замерах. Журнал показывает последний час, сегодня или весь – копируется и отправляется выбранный промежуток.",
-    "en": "Heart rate on Today shows even with only a few manual measurements. The log shows the last hour, today or everything – copy and share use the chosen range."
+    "uk": "Циферблати: список циферблатів на браслеті, вибір поточного і встановлення власного циферблата (.zip або .zab для Mi Band 7) з перевіркою файлу перед надсиланням. «Пристрої → Циферблати».",
+    "ru": "Циферблаты: список циферблатов на браслете, выбор текущего и установка своего циферблата (.zip или .zab для Mi Band 7) с проверкой файла перед отправкой. «Устройства → Циферблаты».",
+    "en": "Watchfaces: list of watchfaces on the band, choose the current one and install your own (.zip or .zab for Mi Band 7), with the file checked before sending. Devices → Watchfaces."
   }
 }
