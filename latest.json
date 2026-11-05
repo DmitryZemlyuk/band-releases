@@ -1,12 +1,12 @@
 {
-  "version": "0.2.4",
-  "code": 13,
-  "url": "https://raw.githubusercontent.com/DmitryZemlyuk/band-releases/main/apk/band-0.2.4.apk",
+  "version": "0.2.5",
+  "code": 14,
+  "url": "https://raw.githubusercontent.com/DmitryZemlyuk/band-releases/main/apk/band-0.2.5.apk",
   "size": 201434,
-  "sha256": "9099d94f6f9486e7bf1c14d830c92bc24f46e5ac495d83e4d2c080d0776c1de0",
+  "sha256": "e870824397b6f2c1898b4fba2fe88151b0e3e85667a001f5bea06836c498ac2c",
   "notes": {
-    "uk": "Кроки, сон і пульс тепер завантажуються прямо з браслета: при підключенні, щогодини та кнопкою синхронізації. Час будильника вибирається барабаном. Кнопки «Тиждень / Місяць / Рік» вищі.",
-    "ru": "Шаги, сон и пульс теперь загружаются прямо с браслета: при подключении, раз в час и кнопкой синхронизации. Время будильника выбирается барабаном. Кнопки «Неделя / Месяц / Год» выше.",
-    "en": "Steps, sleep and heart rate now come straight from the band: on connect, hourly and with the sync button. Alarm time is picked with wheels. Taller Week / Month / Year buttons."
+    "uk": "Дані з браслета оновлюються без таймерів: через 5 секунд після розблокування телефона (не частіше ніж раз на 30 хвилин), при підключенні та кнопкою синхронізації.",
+    "ru": "Данные с браслета обновляются без таймеров: через 5 секунд после разблокировки телефона (не чаще раза в 30 минут), при подключении и кнопкой синхронизации.",
+    "en": "Band data refreshes without timers: 5 seconds after the phone is unlocked (at most every 30 minutes), on connect and with the sync button."
   }
 }
