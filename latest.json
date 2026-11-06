@@ -1,12 +1,12 @@
 {
-  "version": "0.4.5",
-  "code": 32,
-  "url": "https://raw.githubusercontent.com/DmitryZemlyuk/band-releases/main/apk/band-0.4.5.apk",
+  "version": "0.4.6",
+  "code": 33,
+  "url": "https://raw.githubusercontent.com/DmitryZemlyuk/band-releases/main/apk/band-0.4.6.apk",
   "size": 262874,
-  "sha256": "1884b33935f6bfc4714a2779bdf4d51ff76f1fb8aaaff2c88036bfcc136e0bf2",
+  "sha256": "b770cb499466e437cf24e9a05f598387ae36eb2a3d34229423be8f96af62ac21",
   "notes": {
-    "uk": "Тексти більше не вилазять на вузьких екранах: короткі підписи в попапі зважування і журналі, менша одиниця біля значень пульсу й кроків, кнопки повтору будильника. Округлений правий край смужки сну. Коротший напис про зарядку.",
-    "ru": "Тексты больше не вылезают на узких экранах: короткие подписи в попапе взвешивания и журнале, меньше единица у значений пульса и шагов, кнопки повтора будильника. Скруглённый правый край полоски сна. Короче надпись о зарядке.",
-    "en": "Texts no longer overflow on narrow screens: short labels in the weigh-in popup and log, smaller units next to heart rate and step values, alarm repeat buttons. Rounded right end of the sleep bar. Shorter charge note."
+    "uk": "На «Сьогодні» під станом браслета показано час останньої синхронізації.",
+    "ru": "На «Сегодня» под состоянием браслета показано время последней синхронизации.",
+    "en": "Today shows the time of the last sync under the band status."
   }
 }
