@@ -1,12 +1,12 @@
 {
-  "version": "0.4.6",
-  "code": 33,
-  "url": "https://raw.githubusercontent.com/DmitryZemlyuk/band-releases/main/apk/band-0.4.6.apk",
-  "size": 262874,
-  "sha256": "b770cb499466e437cf24e9a05f598387ae36eb2a3d34229423be8f96af62ac21",
+  "version": "0.4.7",
+  "code": 34,
+  "url": "https://raw.githubusercontent.com/DmitryZemlyuk/band-releases/main/apk/band-0.4.7.apk",
+  "size": 266970,
+  "sha256": "c69a6d39b1491823f42d556a787195fc8235dc4d6f0642026ee2adcf79935b56",
   "notes": {
-    "uk": "На «Сьогодні» під станом браслета показано час останньої синхронізації.",
-    "ru": "На «Сегодня» под состоянием браслета показано время последней синхронизации.",
-    "en": "Today shows the time of the last sync under the band status."
+    "uk": "Графіки сну й пульсу: натисни й веди пальцем – видно фазу сну з часом і тривалістю або значення пульсу з часом.",
+    "ru": "Графики сна и пульса: нажми и веди пальцем – видно фазу сна со временем и длительностью или значение пульса со временем.",
+    "en": "Sleep and heart rate charts: press and slide to see the sleep phase with its time and length, or the heart rate value with its time."
   }
 }
