@@ -1,12 +1,12 @@
 {
-  "version": "0.4.4",
-  "code": 31,
-  "url": "https://raw.githubusercontent.com/DmitryZemlyuk/band-releases/main/apk/band-0.4.4.apk",
+  "version": "0.4.5",
+  "code": 32,
+  "url": "https://raw.githubusercontent.com/DmitryZemlyuk/band-releases/main/apk/band-0.4.5.apk",
   "size": 262874,
-  "sha256": "7ee1c611ad60ce255c6623bd746799cef0148b6427f8d7016861285862d9e091",
+  "sha256": "1884b33935f6bfc4714a2779bdf4d51ff76f1fb8aaaff2c88036bfcc136e0bf2",
   "notes": {
-    "uk": "Виправлено дату останньої зарядки браслета і запит перевірки оновлення прошивки.",
-    "ru": "Исправлены дата последней зарядки браслета и запрос проверки обновления прошивки.",
-    "en": "Fixed the band's last charge date and the firmware update check request."
+    "uk": "Тексти більше не вилазять на вузьких екранах: короткі підписи в попапі зважування і журналі, менша одиниця біля значень пульсу й кроків, кнопки повтору будильника. Округлений правий край смужки сну. Коротший напис про зарядку.",
+    "ru": "Тексты больше не вылезают на узких экранах: короткие подписи в попапе взвешивания и журнале, меньше единица у значений пульса и шагов, кнопки повтора будильника. Скруглённый правый край полоски сна. Короче надпись о зарядке.",
+    "en": "Texts no longer overflow on narrow screens: short labels in the weigh-in popup and log, smaller units next to heart rate and step values, alarm repeat buttons. Rounded right end of the sleep bar. Shorter charge note."
   }
 }
