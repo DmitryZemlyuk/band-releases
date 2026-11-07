@@ -1,12 +1,12 @@
 {
-  "version": "0.7.8",
-  "code": 55,
-  "url": "https://raw.githubusercontent.com/DmitryZemlyuk/band-releases/main/apk/band-0.7.8.apk",
+  "version": "0.7.9",
+  "code": 56,
+  "url": "https://raw.githubusercontent.com/DmitryZemlyuk/band-releases/main/apk/band-0.7.9.apk",
   "size": 303834,
-  "sha256": "4d1480190626c053e7130f1bad8d62572759eeb45e27f4fb7e2b97d3244b7f69",
+  "sha256": "0f4436bbb38928427942f6c90830d455ffd65484ba85a7c7f9899f84e0f62c69",
   "notes": {
-    "uk": "Будильник більш ніж за добу показується в днях і годинах («Наступний через 2 дн 5 год»), а не в сотнях годин.",
-    "ru": "Будильник больше чем через сутки показывается в днях и часах («Следующий через 2 дн 5 ч»), а не в сотнях часов.",
-    "en": "An alarm more than a day away now shows days and hours (\"Next in 2 d 5 h\") instead of a large number of hours."
+    "uk": "Останній ручний замір пульсу більше не зберігається повторно при кожному заборі даних з браслета.",
+    "ru": "Последний ручной замер пульса больше не сохраняется заново при каждом заборе данных с браслета.",
+    "en": "The last manual heart-rate reading is no longer stored again on every band fetch."
   }
 }
