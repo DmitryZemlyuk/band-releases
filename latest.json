@@ -1,12 +1,12 @@
 {
-  "version": "0.7.4",
-  "code": 51,
-  "url": "https://raw.githubusercontent.com/DmitryZemlyuk/band-releases/main/apk/band-0.7.4.apk",
+  "version": "0.7.5",
+  "code": 52,
+  "url": "https://raw.githubusercontent.com/DmitryZemlyuk/band-releases/main/apk/band-0.7.5.apk",
   "size": 299738,
-  "sha256": "75d841c738cf1b09df740cf103e8c15cbbcc2da81569f9ed2e6dcd2c6a7351a6",
+  "sha256": "677cd554dd2f72a25ecc6051f27da8c93f2972a9595694484be82fcbd1465109",
   "notes": {
-    "uk": "Кнопки під журналом тепер скляні, як кнопки повтору в будильнику.",
-    "ru": "Кнопки под журналом теперь стеклянные, как кнопки повтора в будильнике.",
-    "en": "The buttons under the log are now glass, like the alarm repeat buttons."
+    "uk": "Вибрана вкладка (тиждень / місяць / рік, година / сьогодні / усе та інші) тепер того ж кольору, що й вибраний повтор у будильнику.",
+    "ru": "Выбранная вкладка (неделя / месяц / год, час / сегодня / всё и другие) теперь того же цвета, что и выбранный повтор в будильнике.",
+    "en": "The selected tab (week / month / year, hour / today / all and others) now has the same color as the selected repeat option in the alarm."
   }
 }
