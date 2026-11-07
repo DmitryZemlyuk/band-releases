@@ -1,12 +1,12 @@
 {
-  "version": "0.5.0",
-  "code": 43,
-  "url": "https://raw.githubusercontent.com/DmitryZemlyuk/band-releases/main/apk/band-0.5.0.apk",
+  "version": "0.5.1",
+  "code": 44,
+  "url": "https://raw.githubusercontent.com/DmitryZemlyuk/band-releases/main/apk/band-0.5.1.apk",
   "size": 275162,
-  "sha256": "e8f03fdbe2dc20a3f66dca4ab0a06a7a67821a5d62105e3418912219695cb0c3",
+  "sha256": "67c3ba47f2564774ff708323b46a093185c5a5c2bd8c9a11ae13c6cb6326a0ab",
   "notes": {
-    "uk": "Ближче до дизайну: на «Сьогодні» швидкі рядки – наступний будильник, що пересилається на браслет і «Знайти браслет»; у будильниках – «Наступний через …», літери днів тижня і велика кнопка додавання; на «Вазі» – кнопка «Зважитися»; у сповіщеннях – «Тест» угорі.",
-    "ru": "Ближе к дизайну: на «Сегодня» быстрые строки – следующий будильник, что пересылается на браслет и «Найти браслет»; в будильниках – «Следующий через …», буквы дней недели и большая кнопка добавления; на «Весе» – кнопка «Взвеситься»; в уведомлениях – «Тест» наверху.",
-    "en": "Closer to the design: quick rows on Today – next alarm, what is forwarded to the band and Find band; alarms show \"Next in …\", weekday letters and a big add button; Weight has a Weigh in button; Test sits at the top of Notifications."
+    "uk": "«Детальніше» у вікні зважування на екрані «Вага» більше не відкриває другу копію екрана – «Назад» веде куди треба. Оновлено опис фонової роботи в профілі.",
+    "ru": "«Подробнее» в окне взвешивания на экране «Вес» больше не открывает вторую копию экрана – «Назад» ведёт куда нужно. Обновлено описание фоновой работы в профиле.",
+    "en": "Details in the weigh-in popup no longer opens a second copy of the Weight screen, so Back goes where it should. Updated the background work note in Profile."
   }
 }
