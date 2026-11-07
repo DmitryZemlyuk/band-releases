@@ -1,12 +1,12 @@
 {
-  "version": "0.7.5",
-  "code": 52,
-  "url": "https://raw.githubusercontent.com/DmitryZemlyuk/band-releases/main/apk/band-0.7.5.apk",
-  "size": 299738,
-  "sha256": "677cd554dd2f72a25ecc6051f27da8c93f2972a9595694484be82fcbd1465109",
+  "version": "0.7.6",
+  "code": 53,
+  "url": "https://raw.githubusercontent.com/DmitryZemlyuk/band-releases/main/apk/band-0.7.6.apk",
+  "size": 303834,
+  "sha256": "669f0e8a205d48609b057d370478897d432cc7aa172e78477026c8cef4c7c2ec",
   "notes": {
-    "uk": "Вибрана вкладка (тиждень / місяць / рік, година / сьогодні / усе та інші) тепер того ж кольору, що й вибраний повтор у будильнику.",
-    "ru": "Выбранная вкладка (неделя / месяц / год, час / сегодня / всё и другие) теперь того же цвета, что и выбранный повтор в будильнике.",
-    "en": "The selected tab (week / month / year, hour / today / all and others) now has the same color as the selected repeat option in the alarm."
+    "uk": "Коли Bluetooth вимкнено, застосунок більше не пробує під’єднатися за таймером, а чекає, поки його ввімкнуть, і тоді під’єднується одразу.",
+    "ru": "Когда Bluetooth выключен, приложение больше не пробует подключиться по таймеру, а ждёт, пока его включат, и тогда подключается сразу.",
+    "en": "With Bluetooth off, the app no longer retries on a timer; it waits until Bluetooth is turned on and connects right away."
   }
 }
