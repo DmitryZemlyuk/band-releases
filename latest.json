@@ -1,12 +1,12 @@
 {
-  "version": "0.4.10",
-  "code": 37,
-  "url": "https://raw.githubusercontent.com/DmitryZemlyuk/band-releases/main/apk/band-0.4.10.apk",
-  "size": 266970,
-  "sha256": "b0e9120d5a4f3030e51cc4d4194da653429cfa212b6ccbb4de0935fe8b1bede8",
+  "version": "0.4.11",
+  "code": 38,
+  "url": "https://raw.githubusercontent.com/DmitryZemlyuk/band-releases/main/apk/band-0.4.11.apk",
+  "size": 271066,
+  "sha256": "d8739ed774dd542e3f9de1bb23d94040cbad6827f0d6703b5358ad4afff0b780",
   "notes": {
-    "uk": "Виправлено зайве повторне завантаження цілого тижня з браслета після короткої синхронізації – менше витрат батареї телефона й браслета.",
-    "ru": "Исправлена лишняя повторная загрузка целой недели с браслета после короткой синхронизации – меньше расход батареи телефона и браслета.",
-    "en": "Fixed an unnecessary re-download of the whole week from the band after a short sync – less battery use on the phone and the band."
+    "uk": "Графік пульсу: окремі заміри видно як точки, лінії сітки підписані значеннями (шкала по десятках), підписи часу стоять під своїми позначками.",
+    "ru": "График пульса: отдельные замеры видны точками, линии сетки подписаны значениями (шкала по десяткам), подписи времени стоят под своими отметками.",
+    "en": "Heart rate chart: single measurements show as dots, grid lines are labelled with values (scale in tens), time labels sit under their marks."
   }
 }
