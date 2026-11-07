@@ -1,12 +1,12 @@
 {
-  "version": "0.4.11",
-  "code": 38,
-  "url": "https://raw.githubusercontent.com/DmitryZemlyuk/band-releases/main/apk/band-0.4.11.apk",
+  "version": "0.4.12",
+  "code": 39,
+  "url": "https://raw.githubusercontent.com/DmitryZemlyuk/band-releases/main/apk/band-0.4.12.apk",
   "size": 271066,
-  "sha256": "d8739ed774dd542e3f9de1bb23d94040cbad6827f0d6703b5358ad4afff0b780",
+  "sha256": "7b71637d4cc37d7b13b50c3dcdeda6a3825a884f5f039892c48ecb570a232416",
   "notes": {
-    "uk": "Графік пульсу: окремі заміри видно як точки, лінії сітки підписані значеннями (шкала по десятках), підписи часу стоять під своїми позначками.",
-    "ru": "График пульса: отдельные замеры видны точками, линии сетки подписаны значениями (шкала по десяткам), подписи времени стоят под своими отметками.",
-    "en": "Heart rate chart: single measurements show as dots, grid lines are labelled with values (scale in tens), time labels sit under their marks."
+    "uk": "Перевірка прошивки правильно показує «Це остання версія», коли сервер не пропонує оновлення.",
+    "ru": "Проверка прошивки правильно показывает «Это последняя версия», когда сервер не предлагает обновление.",
+    "en": "Firmware check correctly says it is the latest version when the server offers no update."
   }
 }
