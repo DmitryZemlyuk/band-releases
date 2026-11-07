@@ -1,12 +1,12 @@
 {
-  "version": "0.6.0",
-  "code": 45,
-  "url": "https://raw.githubusercontent.com/DmitryZemlyuk/band-releases/main/apk/band-0.6.0.apk",
+  "version": "0.6.1",
+  "code": 46,
+  "url": "https://raw.githubusercontent.com/DmitryZemlyuk/band-releases/main/apk/band-0.6.1.apk",
   "size": 291546,
-  "sha256": "3784a84a0f832a67843a3df36e5be824474839e7139c2971ac6f56ddd7a4e953",
+  "sha256": "05486cfdadf258b6266851eb03a4a457e765cadeeb2d9c0992e7800503bce2f7",
   "notes": {
-    "uk": "Новий екран «Режими та нагадування»: не турбувати, підйом зап’ястя, нічний режим, нагадування про розминку та привітання з метою за кроками – усе з розкладом і зберігається на браслеті. Активність (кроки, сон, пульс) тепер надсилається в Zepp, щоб у Zepp Life не було дір; дні, які там уже є, не чіпаються. Вимикається в профілі.",
-    "ru": "Новый экран «Режимы и напоминания»: не беспокоить, подъём запястья, ночной режим, напоминание о разминке и поздравление с целью по шагам – всё с расписанием и хранится на браслете. Активность (шаги, сон, пульс) теперь отправляется в Zepp, чтобы в Zepp Life не было дыр; дни, которые там уже есть, не трогаются. Выключается в профиле.",
-    "en": "New Modes and reminders screen: do not disturb, lift wrist, night mode, move reminder and the steps goal message – with schedules, stored on the band. Activity (steps, sleep, heart rate) is now sent to Zepp so Zepp Life has no gaps; days already there are left alone. Can be turned off in Profile."
+    "uk": "Дрібні виправлення: екран «Режими та нагадування» не перебудовується без потреби, активність надсилається в Zepp, навіть якщо надсилання зважування не вдалося.",
+    "ru": "Мелкие исправления: экран «Режимы и напоминания» не перестраивается без нужды, активность отправляется в Zepp, даже если отправка взвешивания не удалась.",
+    "en": "Small fixes: the Modes and reminders screen no longer rebuilds needlessly, and activity is sent to Zepp even when a weigh-in upload fails."
   }
 }
