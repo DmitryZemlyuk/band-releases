@@ -1,12 +1,12 @@
 {
-  "version": "0.4.14",
-  "code": 41,
-  "url": "https://raw.githubusercontent.com/DmitryZemlyuk/band-releases/main/apk/band-0.4.14.apk",
+  "version": "0.4.15",
+  "code": 42,
+  "url": "https://raw.githubusercontent.com/DmitryZemlyuk/band-releases/main/apk/band-0.4.15.apk",
   "size": 271066,
-  "sha256": "b3aa628baf96cbe46c5ece013dc73b1590748f1603e7a29a6501bfd3e5f76566",
+  "sha256": "9d13a4c2c46e13fe203ee16e18604a82d093c6e954208c385aa18851f4c8c96e",
   "notes": {
-    "uk": "Чистіші міні-графіки на «Сьогодні» (без зайвих ліній). Якщо пульс лише з кількох ручних замірів, картка показує час останнього заміру замість пульсу в спокої.",
-    "ru": "Чище мини-графики на «Сегодня» (без лишних линий). Если пульс только из нескольких ручных замеров, карточка показывает время последнего замера вместо пульса в покое.",
-    "en": "Cleaner mini charts on Today (no stray lines). When heart rate comes from only a few manual measurements, the card shows the time of the last one instead of resting heart rate."
+    "uk": "Менше витрат батареї: застосунок відповідає на інтернет-запити браслета й перевірку зв'язку, тож браслет не повторює їх кожні 20 секунд. Ваги, поки застосунок відкритий, слухаються в збалансованому режимі.",
+    "ru": "Меньше расход батареи: приложение отвечает на интернет-запросы браслета и проверку связи, поэтому браслет не повторяет их каждые 20 секунд. Весы, пока приложение открыто, слушаются в сбалансированном режиме.",
+    "en": "Lower battery use: the app answers the band's internet requests and connection pings, so the band no longer repeats them every 20 seconds. While the app is open, the scale is listened to in balanced mode."
   }
 }
