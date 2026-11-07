@@ -1,12 +1,12 @@
 {
-  "version": "0.7.7",
-  "code": 54,
-  "url": "https://raw.githubusercontent.com/DmitryZemlyuk/band-releases/main/apk/band-0.7.7.apk",
+  "version": "0.7.8",
+  "code": 55,
+  "url": "https://raw.githubusercontent.com/DmitryZemlyuk/band-releases/main/apk/band-0.7.8.apk",
   "size": 303834,
-  "sha256": "de5bbd83eba8cb5152bca8dab1ff7678c08ac20a30970d3b1f0ce411ec076745",
+  "sha256": "4d1480190626c053e7130f1bad8d62572759eeb45e27f4fb7e2b97d3244b7f69",
   "notes": {
-    "uk": "Свіжі дані з браслета йдуть у Zepp і після забору з браслета (не частіше ніж раз на 2 години), а не лише при відкритті застосунку. Журнал показує, чи хмара підтвердила надісланий день.",
-    "ru": "Свежие данные с браслета уходят в Zepp и после забора с браслета (не чаще раза в 2 часа), а не только при открытии приложения. Журнал показывает, подтвердило ли облако отправленный день.",
-    "en": "Fresh band data now goes to Zepp after a band fetch too (at most every 2 hours), not only when the app opens. The log shows whether the cloud confirmed a sent day."
+    "uk": "Будильник більш ніж за добу показується в днях і годинах («Наступний через 2 дн 5 год»), а не в сотнях годин.",
+    "ru": "Будильник больше чем через сутки показывается в днях и часах («Следующий через 2 дн 5 ч»), а не в сотнях часов.",
+    "en": "An alarm more than a day away now shows days and hours (\"Next in 2 d 5 h\") instead of a large number of hours."
   }
 }
