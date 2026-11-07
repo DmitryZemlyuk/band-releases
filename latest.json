@@ -1,12 +1,12 @@
 {
-  "version": "0.6.1",
-  "code": 46,
-  "url": "https://raw.githubusercontent.com/DmitryZemlyuk/band-releases/main/apk/band-0.6.1.apk",
-  "size": 291546,
-  "sha256": "05486cfdadf258b6266851eb03a4a457e765cadeeb2d9c0992e7800503bce2f7",
+  "version": "0.7.0",
+  "code": 47,
+  "url": "https://raw.githubusercontent.com/DmitryZemlyuk/band-releases/main/apk/band-0.7.0.apk",
+  "size": 299738,
+  "sha256": "b638ca80ff333aa816ab1bbbf81445da4732071b700876d356b532b9f9a8f1f9",
   "notes": {
-    "uk": "Дрібні виправлення: екран «Режими та нагадування» не перебудовується без потреби, активність надсилається в Zepp, навіть якщо надсилання зважування не вдалося.",
-    "ru": "Мелкие исправления: экран «Режимы и напоминания» не перестраивается без нужды, активность отправляется в Zepp, даже если отправка взвешивания не удалась.",
-    "en": "Small fixes: the Modes and reminders screen no longer rebuilds needlessly, and activity is sent to Zepp even when a weigh-in upload fails."
+    "uk": "Health Connect: кроки, дистанція, сон, пульс, вага й жир записуються в Health Connect – їх бачать Samsung Health та інші застосунки. Вмикається в профілі. Профіль на браслеті: зріст, вага, дата народження, стать і мета за кроками надсилаються на браслет для точніших калорій і дистанції – лише коли щось змінилося.",
+    "ru": "Health Connect: шаги, дистанция, сон, пульс, вес и жир записываются в Health Connect – их видят Samsung Health и другие приложения. Включается в профиле. Профиль на браслете: рост, вес, дата рождения, пол и цель по шагам отправляются на браслет для точных калорий и дистанции – только когда что-то изменилось.",
+    "en": "Health Connect: steps, distance, sleep, heart rate, weight and body fat are written to Health Connect, so Samsung Health and other apps see them. Turn it on in Profile. Band profile: height, weight, birth date, sex and the steps goal are sent to the band for accurate calories and distance – only when something changed."
   }
 }
