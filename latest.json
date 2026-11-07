@@ -1,12 +1,12 @@
 {
-  "version": "0.4.7",
-  "code": 34,
-  "url": "https://raw.githubusercontent.com/DmitryZemlyuk/band-releases/main/apk/band-0.4.7.apk",
+  "version": "0.4.8",
+  "code": 35,
+  "url": "https://raw.githubusercontent.com/DmitryZemlyuk/band-releases/main/apk/band-0.4.8.apk",
   "size": 266970,
-  "sha256": "c69a6d39b1491823f42d556a787195fc8235dc4d6f0642026ee2adcf79935b56",
+  "sha256": "0f59aae5219cc4bea1b1ca60a87a574a692e8316956f5d5a16ec3e82445ee2a8",
   "notes": {
-    "uk": "Графіки сну й пульсу: натисни й веди пальцем – видно фазу сну з часом і тривалістю або значення пульсу з часом.",
-    "ru": "Графики сна и пульса: нажми и веди пальцем – видно фазу сна со временем и длительностью или значение пульса со временем.",
-    "en": "Sleep and heart rate charts: press and slide to see the sleep phase with its time and length, or the heart rate value with its time."
+    "uk": "Підказка на графіках сну й пульсу більше не обрізається по краях.",
+    "ru": "Подсказка на графиках сна и пульса больше не обрезается по краям.",
+    "en": "The readout bubble on sleep and heart rate charts is no longer clipped at the edges."
   }
 }
