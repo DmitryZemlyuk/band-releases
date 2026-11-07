@@ -1,12 +1,12 @@
 {
-  "version": "0.4.15",
-  "code": 42,
-  "url": "https://raw.githubusercontent.com/DmitryZemlyuk/band-releases/main/apk/band-0.4.15.apk",
-  "size": 271066,
-  "sha256": "9d13a4c2c46e13fe203ee16e18604a82d093c6e954208c385aa18851f4c8c96e",
+  "version": "0.5.0",
+  "code": 43,
+  "url": "https://raw.githubusercontent.com/DmitryZemlyuk/band-releases/main/apk/band-0.5.0.apk",
+  "size": 275162,
+  "sha256": "e8f03fdbe2dc20a3f66dca4ab0a06a7a67821a5d62105e3418912219695cb0c3",
   "notes": {
-    "uk": "Менше витрат батареї: застосунок відповідає на інтернет-запити браслета й перевірку зв'язку, тож браслет не повторює їх кожні 20 секунд. Ваги, поки застосунок відкритий, слухаються в збалансованому режимі.",
-    "ru": "Меньше расход батареи: приложение отвечает на интернет-запросы браслета и проверку связи, поэтому браслет не повторяет их каждые 20 секунд. Весы, пока приложение открыто, слушаются в сбалансированном режиме.",
-    "en": "Lower battery use: the app answers the band's internet requests and connection pings, so the band no longer repeats them every 20 seconds. While the app is open, the scale is listened to in balanced mode."
+    "uk": "Ближче до дизайну: на «Сьогодні» швидкі рядки – наступний будильник, що пересилається на браслет і «Знайти браслет»; у будильниках – «Наступний через …», літери днів тижня і велика кнопка додавання; на «Вазі» – кнопка «Зважитися»; у сповіщеннях – «Тест» угорі.",
+    "ru": "Ближе к дизайну: на «Сегодня» быстрые строки – следующий будильник, что пересылается на браслет и «Найти браслет»; в будильниках – «Следующий через …», буквы дней недели и большая кнопка добавления; на «Весе» – кнопка «Взвеситься»; в уведомлениях – «Тест» наверху.",
+    "en": "Closer to the design: quick rows on Today – next alarm, what is forwarded to the band and Find band; alarms show \"Next in …\", weekday letters and a big add button; Weight has a Weigh in button; Test sits at the top of Notifications."
   }
 }
