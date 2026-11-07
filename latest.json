@@ -1,12 +1,12 @@
 {
-  "version": "0.7.2",
-  "code": 49,
-  "url": "https://raw.githubusercontent.com/DmitryZemlyuk/band-releases/main/apk/band-0.7.2.apk",
+  "version": "0.7.3",
+  "code": 50,
+  "url": "https://raw.githubusercontent.com/DmitryZemlyuk/band-releases/main/apk/band-0.7.3.apk",
   "size": 299738,
-  "sha256": "3ba7612d965915a2103c9bf26b527798260d465927675f9203a64e69a811a87c",
+  "sha256": "3aa9e2127057a2973a72dc34a40229bd9d132ff930a1d49717de3a4b990749ce",
   "notes": {
-    "uk": "Будильник: «Зберегти» вгорі, під заголовком – коли задзвонить, варіанти повтору – скляні кнопки над днями тижня. Журнал: копіювати вгорі, а під журналом – кнопки «Копіювати», «Поділитися» й «Очистити».",
-    "ru": "Будильник: «Сохранить» вверху, под заголовком – когда зазвонит, варианты повтора – стеклянные кнопки над днями недели. Журнал: копировать вверху, а под журналом – кнопки «Копировать», «Поделиться» и «Очистить».",
-    "en": "Alarm: Save at the top, the subtitle shows when it will ring, repeat options are glass pills above the weekdays. Log: copy at the top and Copy, Share and Clear buttons under the log."
+    "uk": "Кнопки «Одноразово», «У будні» та «Щодня» в будильнику тепер однакової ширини.",
+    "ru": "Кнопки «Однократно», «По будням» и «Каждый день» в будильнике теперь одинаковой ширины.",
+    "en": "The Once, Weekdays and Every day buttons in the alarm are now the same width."
   }
 }
