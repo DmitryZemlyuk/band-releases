@@ -1,12 +1,12 @@
 {
-  "version": "0.7.6",
-  "code": 53,
-  "url": "https://raw.githubusercontent.com/DmitryZemlyuk/band-releases/main/apk/band-0.7.6.apk",
+  "version": "0.7.7",
+  "code": 54,
+  "url": "https://raw.githubusercontent.com/DmitryZemlyuk/band-releases/main/apk/band-0.7.7.apk",
   "size": 303834,
-  "sha256": "669f0e8a205d48609b057d370478897d432cc7aa172e78477026c8cef4c7c2ec",
+  "sha256": "de5bbd83eba8cb5152bca8dab1ff7678c08ac20a30970d3b1f0ce411ec076745",
   "notes": {
-    "uk": "Коли Bluetooth вимкнено, застосунок більше не пробує під’єднатися за таймером, а чекає, поки його ввімкнуть, і тоді під’єднується одразу.",
-    "ru": "Когда Bluetooth выключен, приложение больше не пробует подключиться по таймеру, а ждёт, пока его включат, и тогда подключается сразу.",
-    "en": "With Bluetooth off, the app no longer retries on a timer; it waits until Bluetooth is turned on and connects right away."
+    "uk": "Свіжі дані з браслета йдуть у Zepp і після забору з браслета (не частіше ніж раз на 2 години), а не лише при відкритті застосунку. Журнал показує, чи хмара підтвердила надісланий день.",
+    "ru": "Свежие данные с браслета уходят в Zepp и после забора с браслета (не чаще раза в 2 часа), а не только при открытии приложения. Журнал показывает, подтвердило ли облако отправленный день.",
+    "en": "Fresh band data now goes to Zepp after a band fetch too (at most every 2 hours), not only when the app opens. The log shows whether the cloud confirmed a sent day."
   }
 }
