@@ -1,12 +1,12 @@
 {
-  "version": "0.7.1",
-  "code": 48,
-  "url": "https://raw.githubusercontent.com/DmitryZemlyuk/band-releases/main/apk/band-0.7.1.apk",
+  "version": "0.7.2",
+  "code": 49,
+  "url": "https://raw.githubusercontent.com/DmitryZemlyuk/band-releases/main/apk/band-0.7.2.apk",
   "size": 299738,
-  "sha256": "ddc7e60a62be41304d89bf10b0e5f7b1def176507f43c918b7f276c51cbd1bf7",
+  "sha256": "3ba7612d965915a2103c9bf26b527798260d465927675f9203a64e69a811a87c",
   "notes": {
-    "uk": "Health Connect отримує й кроки за дні з історії Zepp (до цього застосунку) і не записує 30 днів двічі поспіль. У журналі менше повторів про заряд.",
-    "ru": "Health Connect получает и шаги за дни из истории Zepp (до этого приложения) и не записывает 30 дней дважды подряд. В журнале меньше повторов про заряд.",
-    "en": "Health Connect now also gets steps for days from the Zepp history (before this app) and no longer writes 30 days twice in a row. Fewer repeated battery lines in the log."
+    "uk": "Будильник: «Зберегти» вгорі, під заголовком – коли задзвонить, варіанти повтору – скляні кнопки над днями тижня. Журнал: копіювати вгорі, а під журналом – кнопки «Копіювати», «Поділитися» й «Очистити».",
+    "ru": "Будильник: «Сохранить» вверху, под заголовком – когда зазвонит, варианты повтора – стеклянные кнопки над днями недели. Журнал: копировать вверху, а под журналом – кнопки «Копировать», «Поделиться» и «Очистить».",
+    "en": "Alarm: Save at the top, the subtitle shows when it will ring, repeat options are glass pills above the weekdays. Log: copy at the top and Copy, Share and Clear buttons under the log."
   }
 }
