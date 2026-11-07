@@ -1,12 +1,12 @@
 {
-  "version": "0.4.12",
-  "code": 39,
-  "url": "https://raw.githubusercontent.com/DmitryZemlyuk/band-releases/main/apk/band-0.4.12.apk",
+  "version": "0.4.13",
+  "code": 40,
+  "url": "https://raw.githubusercontent.com/DmitryZemlyuk/band-releases/main/apk/band-0.4.13.apk",
   "size": 271066,
-  "sha256": "7b71637d4cc37d7b13b50c3dcdeda6a3825a884f5f039892c48ecb570a232416",
+  "sha256": "1a017abb48f87d666da0db511583d1cb64fd6181c188b1c6d8cd9cf692e6b8a6",
   "notes": {
-    "uk": "Перевірка прошивки правильно показує «Це остання версія», коли сервер не пропонує оновлення.",
-    "ru": "Проверка прошивки правильно показывает «Это последняя версия», когда сервер не предлагает обновление.",
-    "en": "Firmware check correctly says it is the latest version when the server offers no update."
+    "uk": "Чип браслета на «Сьогодні» більше не обрізає текст (наприклад «100%») і показує «заряджається» під час зарядки. Журнал не засмічується повторюваними службовими повідомленнями браслета.",
+    "ru": "Чип браслета на «Сегодня» больше не обрезает текст (например «100%») и показывает «заряжается» во время зарядки. Журнал не засоряется повторяющимися служебными сообщениями браслета.",
+    "en": "The band chip on Today no longer clips its text (e.g. \"100%\") and says \"charging\" while charging. The log is no longer flooded with the band's repeated service messages."
   }
 }
