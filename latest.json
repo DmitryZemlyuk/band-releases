@@ -1,12 +1,12 @@
 {
-  "version": "0.7.3",
-  "code": 50,
-  "url": "https://raw.githubusercontent.com/DmitryZemlyuk/band-releases/main/apk/band-0.7.3.apk",
+  "version": "0.7.4",
+  "code": 51,
+  "url": "https://raw.githubusercontent.com/DmitryZemlyuk/band-releases/main/apk/band-0.7.4.apk",
   "size": 299738,
-  "sha256": "3aa9e2127057a2973a72dc34a40229bd9d132ff930a1d49717de3a4b990749ce",
+  "sha256": "75d841c738cf1b09df740cf103e8c15cbbcc2da81569f9ed2e6dcd2c6a7351a6",
   "notes": {
-    "uk": "Кнопки «Одноразово», «У будні» та «Щодня» в будильнику тепер однакової ширини.",
-    "ru": "Кнопки «Однократно», «По будням» и «Каждый день» в будильнике теперь одинаковой ширины.",
-    "en": "The Once, Weekdays and Every day buttons in the alarm are now the same width."
+    "uk": "Кнопки під журналом тепер скляні, як кнопки повтору в будильнику.",
+    "ru": "Кнопки под журналом теперь стеклянные, как кнопки повтора в будильнике.",
+    "en": "The buttons under the log are now glass, like the alarm repeat buttons."
   }
 }
