@@ -1,12 +1,12 @@
 {
-  "version": "0.4.9",
-  "code": 36,
-  "url": "https://raw.githubusercontent.com/DmitryZemlyuk/band-releases/main/apk/band-0.4.9.apk",
+  "version": "0.4.10",
+  "code": 37,
+  "url": "https://raw.githubusercontent.com/DmitryZemlyuk/band-releases/main/apk/band-0.4.10.apk",
   "size": 266970,
-  "sha256": "6796b90a56abe57b77c09f9f24c509ae3e1ed3de4ad33abc07d11be60a3f4a64",
+  "sha256": "b0e9120d5a4f3030e51cc4d4194da653429cfa212b6ccbb4de0935fe8b1bede8",
   "notes": {
-    "uk": "Точніші фази сну: застосунок зберігає всі байти поминутних даних браслета, ще раз завантажує останній тиждень і сам підбирає, який байт відповідає за REM і глибокий сон, порівнюючи з ночами Zepp Life.",
-    "ru": "Точнее фазы сна: приложение сохраняет все байты поминутных данных браслета, ещё раз загружает последнюю неделю и само подбирает, какой байт отвечает за REM и глубокий сон, сравнивая с ночами Zepp Life.",
-    "en": "More accurate sleep stages: the app keeps every byte of the band's per-minute data, downloads the last week once more and works out which byte carries REM and deep sleep by comparing with Zepp Life's nights."
+    "uk": "Виправлено зайве повторне завантаження цілого тижня з браслета після короткої синхронізації – менше витрат батареї телефона й браслета.",
+    "ru": "Исправлена лишняя повторная загрузка целой недели с браслета после короткой синхронизации – меньше расход батареи телефона и браслета.",
+    "en": "Fixed an unnecessary re-download of the whole week from the band after a short sync – less battery use on the phone and the band."
   }
 }
