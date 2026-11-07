@@ -1,12 +1,12 @@
 {
-  "version": "0.4.8",
-  "code": 35,
-  "url": "https://raw.githubusercontent.com/DmitryZemlyuk/band-releases/main/apk/band-0.4.8.apk",
+  "version": "0.4.9",
+  "code": 36,
+  "url": "https://raw.githubusercontent.com/DmitryZemlyuk/band-releases/main/apk/band-0.4.9.apk",
   "size": 266970,
-  "sha256": "0f59aae5219cc4bea1b1ca60a87a574a692e8316956f5d5a16ec3e82445ee2a8",
+  "sha256": "6796b90a56abe57b77c09f9f24c509ae3e1ed3de4ad33abc07d11be60a3f4a64",
   "notes": {
-    "uk": "Підказка на графіках сну й пульсу більше не обрізається по краях.",
-    "ru": "Подсказка на графиках сна и пульса больше не обрезается по краям.",
-    "en": "The readout bubble on sleep and heart rate charts is no longer clipped at the edges."
+    "uk": "Точніші фази сну: застосунок зберігає всі байти поминутних даних браслета, ще раз завантажує останній тиждень і сам підбирає, який байт відповідає за REM і глибокий сон, порівнюючи з ночами Zepp Life.",
+    "ru": "Точнее фазы сна: приложение сохраняет все байты поминутных данных браслета, ещё раз загружает последнюю неделю и само подбирает, какой байт отвечает за REM и глубокий сон, сравнивая с ночами Zepp Life.",
+    "en": "More accurate sleep stages: the app keeps every byte of the band's per-minute data, downloads the last week once more and works out which byte carries REM and deep sleep by comparing with Zepp Life's nights."
   }
 }
