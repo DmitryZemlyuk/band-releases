@@ -1,12 +1,12 @@
 {
-  "version": "0.7.11",
-  "code": 58,
-  "url": "https://raw.githubusercontent.com/DmitryZemlyuk/band-releases/main/apk/band-0.7.11.apk",
-  "size": 303834,
-  "sha256": "3f16354460def7b0c84b72f6b077f26a264ed7e8e41466110955d1277520c72b",
+  "version": "0.7.12",
+  "code": 59,
+  "url": "https://raw.githubusercontent.com/DmitryZemlyuk/band-releases/main/apk/band-0.7.12.apk",
+  "size": 299738,
+  "sha256": "5442532dcc34e367fec19927e92bde2c2d6ca75046e2dfe63a535b4f8a84e49c",
   "notes": {
-    "uk": "Той самий день більше не надсилається в Zepp двічі, коли синхронізація й забір даних з браслета збігаються в часі.",
-    "ru": "Один и тот же день больше не отправляется в Zepp дважды, когда синхронизация и забор данных с браслета совпадают по времени.",
-    "en": "The same day is no longer sent to Zepp twice when the sync and a band fetch happen at the same moment."
+    "uk": "Оновлення тепер завантажується в браузері й встановлюється системним установником – застосунок сам нічого не встановлює. Дані та налаштування зберігаються.",
+    "ru": "Обновление теперь загружается в браузере и устанавливается системным установщиком – приложение само ничего не устанавливает. Данные и настройки сохраняются.",
+    "en": "Updates are now downloaded in the browser and installed by the system installer – the app no longer installs anything itself. Data and settings stay."
   }
 }
