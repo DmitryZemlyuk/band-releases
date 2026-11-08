@@ -1,12 +1,12 @@
 {
-  "version": "0.7.9",
-  "code": 56,
-  "url": "https://raw.githubusercontent.com/DmitryZemlyuk/band-releases/main/apk/band-0.7.9.apk",
+  "version": "0.7.10",
+  "code": 57,
+  "url": "https://raw.githubusercontent.com/DmitryZemlyuk/band-releases/main/apk/band-0.7.10.apk",
   "size": 303834,
-  "sha256": "0f4436bbb38928427942f6c90830d455ffd65484ba85a7c7f9899f84e0f62c69",
+  "sha256": "1ee332079e11333d1fc8e8648665e360e5b2465ce87420dc8084eafc85a8afad",
   "notes": {
-    "uk": "Останній ручний замір пульсу більше не зберігається повторно при кожному заборі даних з браслета.",
-    "ru": "Последний ручной замер пульса больше не сохраняется заново при каждом заборе данных с браслета.",
-    "en": "The last manual heart-rate reading is no longer stored again on every band fetch."
+    "uk": "Новий день іде в Zepp одразу після забору даних з браслета (після перевірки, що його там ще немає), а не лише при наступному відкритті застосунку.",
+    "ru": "Новый день уходит в Zepp сразу после забора данных с браслета (после проверки, что его там ещё нет), а не только при следующем открытии приложения.",
+    "en": "A new day now goes to Zepp right after a band fetch (after checking the cloud doesn't have it yet), not only on the next app open."
   }
 }
