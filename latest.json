@@ -1,12 +1,12 @@
 {
-  "version": "0.7.10",
-  "code": 57,
-  "url": "https://raw.githubusercontent.com/DmitryZemlyuk/band-releases/main/apk/band-0.7.10.apk",
+  "version": "0.7.11",
+  "code": 58,
+  "url": "https://raw.githubusercontent.com/DmitryZemlyuk/band-releases/main/apk/band-0.7.11.apk",
   "size": 303834,
-  "sha256": "1ee332079e11333d1fc8e8648665e360e5b2465ce87420dc8084eafc85a8afad",
+  "sha256": "3f16354460def7b0c84b72f6b077f26a264ed7e8e41466110955d1277520c72b",
   "notes": {
-    "uk": "Новий день іде в Zepp одразу після забору даних з браслета (після перевірки, що його там ще немає), а не лише при наступному відкритті застосунку.",
-    "ru": "Новый день уходит в Zepp сразу после забора данных с браслета (после проверки, что его там ещё нет), а не только при следующем открытии приложения.",
-    "en": "A new day now goes to Zepp right after a band fetch (after checking the cloud doesn't have it yet), not only on the next app open."
+    "uk": "Той самий день більше не надсилається в Zepp двічі, коли синхронізація й забір даних з браслета збігаються в часі.",
+    "ru": "Один и тот же день больше не отправляется в Zepp дважды, когда синхронизация и забор данных с браслета совпадают по времени.",
+    "en": "The same day is no longer sent to Zepp twice when the sync and a band fetch happen at the same moment."
   }
 }
