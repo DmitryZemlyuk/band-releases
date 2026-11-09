@@ -1,12 +1,12 @@
 {
-  "version": "0.7.14",
-  "code": 61,
-  "url": "https://raw.githubusercontent.com/DmitryZemlyuk/band-releases/main/apk/band-0.7.14.apk",
+  "version": "0.7.15",
+  "code": 62,
+  "url": "https://raw.githubusercontent.com/DmitryZemlyuk/band-releases/main/apk/band-0.7.15.apk",
   "size": 299738,
-  "sha256": "3d7b4ac5130edbb87eac9a8e7da6e42687d1639a6116ff9c4e2763ba6912f20d",
+  "sha256": "a90ce9de594cad092e45e1040fcb15057c20c63f019940c3491f74c6999b0d71",
   "notes": {
-    "uk": "Захист від рідкісного випадку: якщо годинник телефона перевели назад, зважування все одно надсилається одразу, без повторних спроб.",
-    "ru": "Защита от редкого случая: если часы телефона перевели назад, взвешивание всё равно отправляется сразу, без повторных попыток.",
-    "en": "Guard for a rare case: if the phone clock was set back, a weigh-in is still sent right away, without repeated retries."
+    "uk": "Дія з браслета (відхилити дзвінок, прибрати сповіщення) записується в журнал один раз, а не двічі.",
+    "ru": "Действие с браслета (отклонить звонок, убрать уведомление) записывается в журнал один раз, а не дважды.",
+    "en": "An action from the band (reject a call, dismiss a notification) is written to the log once instead of twice."
   }
 }
