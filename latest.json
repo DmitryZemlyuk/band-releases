@@ -1,12 +1,12 @@
 {
-  "version": "0.7.12",
-  "code": 59,
-  "url": "https://raw.githubusercontent.com/DmitryZemlyuk/band-releases/main/apk/band-0.7.12.apk",
+  "version": "0.7.13",
+  "code": 60,
+  "url": "https://raw.githubusercontent.com/DmitryZemlyuk/band-releases/main/apk/band-0.7.13.apk",
   "size": 299738,
-  "sha256": "5442532dcc34e367fec19927e92bde2c2d6ca75046e2dfe63a535b4f8a84e49c",
+  "sha256": "6209a06725793036d69aa2d9c026ff186f404c7c4e52ccb0694b940398f2babc",
   "notes": {
-    "uk": "Оновлення тепер завантажується в браузері й встановлюється системним установником – застосунок сам нічого не встановлює. Дані та налаштування зберігаються.",
-    "ru": "Обновление теперь загружается в браузере и устанавливается системным установщиком – приложение само ничего не устанавливает. Данные и настройки сохраняются.",
-    "en": "Updates are now downloaded in the browser and installed by the system installer – the app no longer installs anything itself. Data and settings stay."
+    "uk": "Зважування йде в Zepp одразу (приблизно через 25 секунд), навіть якщо зважитися двічі поспіль – друге більше не чекає годинами.",
+    "ru": "Взвешивание уходит в Zepp сразу (примерно через 25 секунд), даже если взвеситься дважды подряд – второе больше не ждёт часами.",
+    "en": "A weigh-in goes to Zepp right away (in about 25 seconds), even two in a row – the second one no longer waits for hours."
   }
 }
