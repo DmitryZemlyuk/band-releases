@@ -1,12 +1,12 @@
 {
-  "version": "0.7.15",
-  "code": 62,
-  "url": "https://raw.githubusercontent.com/DmitryZemlyuk/band-releases/main/apk/band-0.7.15.apk",
+  "version": "0.7.16",
+  "code": 63,
+  "url": "https://raw.githubusercontent.com/DmitryZemlyuk/band-releases/main/apk/band-0.7.16.apk",
   "size": 299738,
-  "sha256": "a90ce9de594cad092e45e1040fcb15057c20c63f019940c3491f74c6999b0d71",
+  "sha256": "a35ab813ca07c93a485b40555f55063f4b278e0f86749a2db43db363cd84d954",
   "notes": {
-    "uk": "Дія з браслета (відхилити дзвінок, прибрати сповіщення) записується в журнал один раз, а не двічі.",
-    "ru": "Действие с браслета (отклонить звонок, убрать уведомление) записывается в журнал один раз, а не дважды.",
-    "en": "An action from the band (reject a call, dismiss a notification) is written to the log once instead of twice."
+    "uk": "Прибрано застарілу плашку про зважування на «Вазі»: зважування на Mi Scale 2 вже працює в застосунку. Оновлено текст, коли зважувань ще немає.",
+    "ru": "Убрана устаревшая плашка про взвешивание на экране «Вес»: взвешивание на Mi Scale 2 уже работает в приложении. Обновлён текст, когда взвешиваний ещё нет.",
+    "en": "Removed the outdated weigh-in note on the Weight screen: weighing on Mi Scale 2 already works in the app. Updated the text shown when there are no weigh-ins yet."
   }
 }
