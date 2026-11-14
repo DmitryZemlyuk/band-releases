@@ -1,12 +1,12 @@
 {
-  "version": "0.7.16",
-  "code": 63,
-  "url": "https://raw.githubusercontent.com/DmitryZemlyuk/band-releases/main/apk/band-0.7.16.apk",
+  "version": "0.7.17",
+  "code": 64,
+  "url": "https://raw.githubusercontent.com/DmitryZemlyuk/band-releases/main/apk/band-0.7.17.apk",
   "size": 299738,
-  "sha256": "a35ab813ca07c93a485b40555f55063f4b278e0f86749a2db43db363cd84d954",
+  "sha256": "a7b13e7229d42fd3b0dabe580ef115a7d7383c4fead99b975b7131b38d245ede",
   "notes": {
-    "uk": "Прибрано застарілу плашку про зважування на «Вазі»: зважування на Mi Scale 2 вже працює в застосунку. Оновлено текст, коли зважувань ще немає.",
-    "ru": "Убрана устаревшая плашка про взвешивание на экране «Вес»: взвешивание на Mi Scale 2 уже работает в приложении. Обновлён текст, когда взвешиваний ещё нет.",
-    "en": "Removed the outdated weigh-in note on the Weight screen: weighing on Mi Scale 2 already works in the app. Updated the text shown when there are no weigh-ins yet."
+    "uk": "Вибрана мова застосунку тепер зберігається й після перезавантаження телефона.",
+    "ru": "Выбранный язык приложения теперь сохраняется и после перезагрузки телефона.",
+    "en": "The chosen app language now stays after a phone restart."
   }
 }
