@@ -1,12 +1,12 @@
 {
-  "version": "0.7.17",
-  "code": 64,
-  "url": "https://raw.githubusercontent.com/DmitryZemlyuk/band-releases/main/apk/band-0.7.17.apk",
+  "version": "0.7.18",
+  "code": 65,
+  "url": "https://raw.githubusercontent.com/DmitryZemlyuk/band-releases/main/apk/band-0.7.18.apk",
   "size": 299738,
-  "sha256": "a7b13e7229d42fd3b0dabe580ef115a7d7383c4fead99b975b7131b38d245ede",
+  "sha256": "c0f30dbd82f537b81f5ed9a6796eb6419bba5a31e32cdc8763a1133fdad97df2",
   "notes": {
-    "uk": "Вибрана мова застосунку тепер зберігається й після перезавантаження телефона.",
-    "ru": "Выбранный язык приложения теперь сохраняется и после перезагрузки телефона.",
-    "en": "The chosen app language now stays after a phone restart."
+    "uk": "Калібрування фаз сну більше не перераховується на все меншій кількості ночей, коли старі ночі Zepp Life «старіють»: беруться всі ночі, а якщо ночі лише зникають, налаштування лишаються як є.",
+    "ru": "Калибровка фаз сна больше не пересчитывается на всё меньшем числе ночей, когда старые ночи Zepp Life «стареют»: берутся все ночи, а если ночи только пропадают, настройки остаются как есть.",
+    "en": "Sleep-stage calibration no longer refits on fewer and fewer nights as old Zepp Life nights age out: all nights are used, and when nights only drop out the current fit is kept."
   }
 }
