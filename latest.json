@@ -1,12 +1,12 @@
 {
-  "version": "0.7.18",
-  "code": 65,
-  "url": "https://raw.githubusercontent.com/DmitryZemlyuk/band-releases/main/apk/band-0.7.18.apk",
+  "version": "0.7.19",
+  "code": 66,
+  "url": "https://raw.githubusercontent.com/DmitryZemlyuk/band-releases/main/apk/band-0.7.19.apk",
   "size": 299738,
-  "sha256": "c0f30dbd82f537b81f5ed9a6796eb6419bba5a31e32cdc8763a1133fdad97df2",
+  "sha256": "7b78ec1a3b2a5bad6b36464a8732d2149afc51d5a45222f3536a2af42f455093",
   "notes": {
-    "uk": "Калібрування фаз сну більше не перераховується на все меншій кількості ночей, коли старі ночі Zepp Life «старіють»: беруться всі ночі, а якщо ночі лише зникають, налаштування лишаються як є.",
-    "ru": "Калибровка фаз сна больше не пересчитывается на всё меньшем числе ночей, когда старые ночи Zepp Life «стареют»: берутся все ночи, а если ночи только пропадают, настройки остаются как есть.",
-    "en": "Sleep-stage calibration no longer refits on fewer and fewer nights as old Zepp Life nights age out: all nights are used, and when nights only drop out the current fit is kept."
+    "uk": "Калібрування сну переглядає лише ночі від першого дня з даними браслета – без зайвої роботи над старою історією Zepp Life.",
+    "ru": "Калибровка сна просматривает только ночи с первого дня с данными браслета – без лишней работы над старой историей Zepp Life.",
+    "en": "Sleep calibration only looks at nights since the first day with band data – no needless work over the old Zepp Life history."
   }
 }
